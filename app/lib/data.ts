@@ -1,5 +1,5 @@
-import {formatCurrency} from './utils';
-import {customers, invoices, revenue} from '@/app/lib/placeholder-data';
+import { formatCurrency } from './utils';
+import { customers, invoices, revenue } from '@/app/lib/placeholder-data';
 
 export async function fetchRevenue() {
   try {

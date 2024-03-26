@@ -1,4 +1,3 @@
-
 export type Revenue = {
   month: string;
   revenue: number;
@@ -31,4 +30,3 @@ export type FormattedCustomersTable = {
   total_pending: string;
   total_paid: string;
 };
-
