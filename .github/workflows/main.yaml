@@ -29,10 +29,3 @@ jobs:
 
       - name: Check Build
         run: npm run build
-
-  docker-build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
