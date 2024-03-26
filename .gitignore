@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+# Webstorm
+.idea
+
 # production
 /build
 
